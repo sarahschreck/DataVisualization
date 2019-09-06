@@ -4,6 +4,12 @@ https://sarahschreck.github.io/DataVisualization/
 
 There's my publicly available webpage! 
 
+# Here's a quick visualization we worked on in class recently:
+<iframe title="Jeremy Corbyn Facebook Clout" aria-label="Bar Chart" id="datawrapper-chart-f9fy6" src="//datawrapper.dwcdn.net/f9fy6/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="503"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
+
+*Data Source: “The Metamorphosis.” The Economist, August 13, 2016. https://www.economist.com/britain/2016/08/13/the-metamorphosis*
+
+
 ## **About Me**
 ### Short n Sweet
 Hello! I'm Sarah (she/her/hers). I'm a second year Master of Arts Management student interested in the intersection of performing arts and national dialogue. I do some freelance graphic design on the side, but in my free time you can always find me entertaining some thoughts about dogs or cartoons from the good ol' days, running, weightlifting, or baking in my itty bitty kitchen.
