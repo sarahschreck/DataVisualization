@@ -1,3 +1,5 @@
+# Part 1
+
 For my final project in this course, I have decided to use data visualization to help determine the top three cities in which I will seek out jobs, after graduation. This issue has been on my mind a lot recently, and I believe I am looking for a distinct blend of opportunities and environments. This project could be extremely beneficial for planning out my early career, and I believe there are ample data sets available to facilitate this exploration.
 
 ## Project Outline
@@ -109,7 +111,7 @@ My dream home. I&#39;ve never really had one, which is a blessing! But I know th
 
 Okay, that last one might have to wait for further investigation.
 
-**PART 1: ARE THERE JOBS?**
+## **PART 1: ARE THERE JOBS?**
 
 Arts Vibrancy Map
 
@@ -162,7 +164,7 @@ Namely, New York City and Los Angeles. If I get bored, maybe I&#39;ll entertain 
 
 
 
-**PART 2: CAN I AFFORD IT?**
+## **PART 2: CAN I AFFORD IT?**
 
 Forbes released an article a while back that established $75,000 as the peak of the income experience. Once you make $75K, you don&#39;t get any happier. Whether or not this is true in practice, [this newspaper] adjusted this 75K based on the cost of living in different states in the United States. Of the states remaining on my list, this is how the
 
@@ -242,7 +244,7 @@ Sounds like it may be tough to live in the top-rent areas. Maybe after my entry-
 
 
 
-**PART 3: Will I feel safe there?**
+## **PART 3: Will I feel safe there?**
 
 Whether I like it or not, I&#39;m going to be living somewhere and my mom is going to want to believe I will survive. That means I should look at the crime statistics. But I also want my values to be reflected in the local government. Here&#39;s the spread of crime rates versus the political ideology of the areas left in the running:
 
@@ -253,8 +255,6 @@ Whether I like it or not, I&#39;m going to be living somewhere and my mom is goi
 Sounds like I&#39;ll be steering clear of the most dangerous and – I&#39;ll be honest – most right-leaning cities. This narrows it down to X metropolitan areas.
 
 **ELIMINATION ROUND 4**
-
-
 
 | Asheville |
 | Austin-Round Rock |
@@ -285,7 +285,7 @@ Sounds like I&#39;ll be steering clear of the most dangerous and – I&#39;ll be
 
 
 
-**PART 4: The Final Verdict**
+##**PART 4: The Final Verdict**
 
 **[Display of final 5-8 choices with bullet-point notes beneath, possibly ranked]**
 
@@ -298,8 +298,8 @@ Sample Visualization Wireframes shown during interviews for context (only verbal
 
 **Final Moodboard**
 
-- **--** Old Travel Posters
-- **--** Flat, warm straightforward
+- Old Travel Posters
+- Flat, warm straightforward
 
 ![moodboard1](https://i.pinimg.com/474x/5d/b5/08/5db50854c10f354a851747ff387521d5.jpg)
 ![moodboard2](https://i.pinimg.com/originals/8a/53/db/8a53dbc1c2c6bc2e93ed15d55f3de76a.jpg)
