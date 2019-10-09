@@ -1,13 +1,5 @@
 # DataVisualization
-This repository will store data for my Data Visualization projects.
-https://sarahschreck.github.io/DataVisualization/
-
-There's my publicly available webpage! 
-
-## Here's a quick visualization we worked on in class recently:
-<iframe title="Jeremy Corbyn Facebook Clout" aria-label="Bar Chart" id="datawrapper-chart-f9fy6" src="//datawrapper.dwcdn.net/f9fy6/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="503"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
-
-*Data Source: “The Metamorphosis.” The Economist, August 13, 2016. https://www.economist.com/britain/2016/08/13/the-metamorphosis*
+This repository will store data for my Data Visualization projects. If you need to journey back here at any time, simply visit: https://sarahschreck.github.io/DataVisualization/
 
 
 ## **About Me**
@@ -27,4 +19,8 @@ Once I graduate, I expect to work as a marketing whiz for some time, before hope
 I am hoping that I will be able to think more outside-the-box with data representation after taking this class. I want to find compelling ways to connect the artists I work with to the data they need to know. I do a lot of work in marketing and data visualization is a phenomenal way to create meaningful content.
 
 ## **Portfolio**
-This is where my super rad visualizations will live! Still working on them for now.
+
+### Here's a quick visualization we worked on in class recently:
+<iframe title="Jeremy Corbyn Facebook Clout" aria-label="Bar Chart" id="datawrapper-chart-f9fy6" src="//datawrapper.dwcdn.net/f9fy6/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="503"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
+
+*Data Source: “The Metamorphosis.” The Economist, August 13, 2016. https://www.economist.com/britain/2016/08/13/the-metamorphosis*
