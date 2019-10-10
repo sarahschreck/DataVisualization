@@ -24,3 +24,11 @@ I am hoping that I will be able to think more outside-the-box with data represen
 <iframe title="Jeremy Corbyn Facebook Clout" aria-label="Bar Chart" id="datawrapper-chart-f9fy6" src="//datawrapper.dwcdn.net/f9fy6/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="503"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 
 *Data Source: “The Metamorphosis.” The Economist, August 13, 2016. https://www.economist.com/britain/2016/08/13/the-metamorphosis*
+
+### Here's a link to the projects I worked on in class:
+1. [Changing Musical Tastes Stream Graph](https://sarahschreck.github.io/DataVisualization/Changing_Musical_Tastes)
+2. [Horror Movie Jump Scare Visualization Critique](https://sarahschreck.github.io/DataVisualization/CritiqueCreation) 
+3. [Titanic Statistics](https://sarahschreck.github.io/DataVisualization/TitanicStats)
+4. [In-Class Exercises](https://sarahschreck.github.io/DataVisualization/datavisualization2)
+5. [Final Project Midpoint](https://sarahschreck.github.io/DataVisualization/final_project_SarahSchreck) 
+6. [Final Project... Final!](https://www.sarahschreck.com/data-visualization)
