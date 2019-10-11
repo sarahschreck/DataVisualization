@@ -30,5 +30,6 @@ I am hoping that I will be able to think more outside-the-box with data represen
 2. [Horror Movie Jump Scare Visualization Critique](https://sarahschreck.github.io/DataVisualization/CritiqueCreation) 
 3. [Titanic Statistics](https://sarahschreck.github.io/DataVisualization/TitanicStats)
 4. [In-Class Exercises](https://sarahschreck.github.io/DataVisualization/datavisualization2)
-5. [Final Project Midpoint](https://sarahschreck.github.io/DataVisualization/final_project_SarahSchreck) 
-6. [Final Project... Final!](https://www.sarahschreck.com/data-visualization)
+5. [Part 1 and Part 2: Final Project Midpoint](https://sarahschreck.github.io/DataVisualization/final_project_SarahSchreck) 
+6. [Part 3: Final Project Reflection](https://sarahschreck.github.io/DataVisualization/PartThree)
+7. [Part 4: Final Project... Final!](https://www.sarahschreck.com/data-visualization)
